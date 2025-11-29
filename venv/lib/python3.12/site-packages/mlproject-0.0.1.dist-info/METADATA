@@ -5,5 +5,8 @@ Author: Sagyn
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: dill
+Requires-Dist: matplotlib
 Dynamic: author
 Dynamic: requires-dist
